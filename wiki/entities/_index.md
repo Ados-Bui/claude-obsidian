@@ -41,3 +41,25 @@ All entity pages — people, organizations, products, and tools.
 ---
 
 ## Add new entities here as they are identified during ingests.
+
+---
+
+## Products & Tools
+
+### Agent Skills
+
+- [[mattpocock-skills|mattpocock/skills]] — Engineering skills cho Claude Code/Codex; fix common agent failure modes
+- [[addyosmani-agent-skills|addyosmani/agent-skills]] — 24 production-grade engineering skills với steps, checkpoint, exit criteria
+- [[last30days-skill|last30days-skill]] — Skill nghiên cứu topic bất kỳ qua 30 ngày: Reddit, X, YouTube, HN, Polymarket
+- [[agents-best-practices|agents-best-practices]] — Provider-neutral SKILL.md; best practices thiết kế agentic system
+- [[obra-superpowers|superpowers]] — Agentic skills framework; methodology Brainstorm → Design → Implement → Review
+
+### AI Tools & Infrastructure
+
+- [[github-spec-kit|spec-kit]] — Toolkit Spec-Driven Development; luồng Spec → Plan → Tasks → Implement
+- [[tirth8205-code-review-graph|code-review-graph]] — Code intelligence graph cho MCP; giảm context ~82x, tính blast radius
+- [[affaan-ecc|ECC]] — Agent harness performance optimization; skills + instincts + memory + security
+- [[nvidia-skillspector|SkillSpector]] — Security scanner cho AI agent skills; 68 vulnerability pattern, 17 category
+- [[agency-agents|agency-agents]] — 232 specialized agent persona, 16 division; app native 1-click install
+
+→ Xem phân loại đầy đủ: [[Các repo cần chú ý - Phân loại]]

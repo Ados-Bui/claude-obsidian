@@ -1,8 +1,6 @@
 {
 	"nodes":[
-		{"id":"title","type":"text","text":"# 🧠 Cosmic Brain\n### Knowledge Map — Fibonacci Spiral\n*12 nodes at golden angle 137.5° — the sunflower pattern*","x":-280,"y":-301,"width":560,"height":141},
 		{"id":"c-idx","type":"file","file":"wiki/concepts/_index.md","x":120,"y":-40,"width":270,"height":80,"color":"2"},
-		{"id":"e-idx","type":"file","file":"wiki/entities/_index.md","x":-411,"y":209,"width":270,"height":80,"color":"6"},
 		{"id":"s-idx","type":"file","file":"wiki/sources/_index.md","x":-101,"y":-488,"width":270,"height":80,"color":"4"},
 		{"id":"dash","type":"file","file":"wiki/meta/dashboard.md","x":187,"y":372,"width":260,"height":108,"color":"5"},
 		{"id":"ov","type":"file","file":"wiki/overview.md","x":-702,"y":-141,"width":260,"height":80,"color":"5"},
@@ -16,7 +14,9 @@
 		{"id":"lbl-entities","type":"text","text":"**👤 ENTITIES**","x":-960,"y":195,"width":160,"height":40,"color":"6"},
 		{"id":"lbl-sources","type":"text","text":"**📄 SOURCES**","x":-200,"y":-580,"width":160,"height":40,"color":"4"},
 		{"id":"lbl-nav","type":"text","text":"**🗂️ NAVIGATION**","x":-560,"y":-790,"width":190,"height":40,"color":"5"},
-		{"id":"hub","type":"file","file":"wiki/index.md","x":-230,"y":-141,"width":350,"height":2095,"color":"5"}
+		{"id":"hub","type":"file","file":"wiki/index.md","x":1200,"y":-852,"width":350,"height":2095,"color":"5"},
+		{"id":"e-idx","type":"file","file":"wiki/entities/_index.md","x":-800,"y":800,"width":270,"height":80,"color":"6"},
+		{"id":"title","type":"text","text":"# 🧠 Cosmic Brain\n### Knowledge Map — Fibonacci Spiral\n*12 nodes at golden angle 137.5° — the sunflower pattern*","x":-1080,"y":-510,"width":560,"height":141}
 	],
 	"edges":[
 		{"id":"e-hub-cidx","fromNode":"hub","fromSide":"right","toNode":"c-idx","toSide":"left","label":"concepts"},

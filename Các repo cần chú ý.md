@@ -29,3 +29,9 @@
 
 - agency agent
   https://github.com/msitarzewski/agency-agents
+
+---
+→ Xem phân loại theo chức năng: [[Các repo cần chú ý - Phân loại]]
+
+- APT_REPORT
+  https://github.com/blackorbird/apt_report

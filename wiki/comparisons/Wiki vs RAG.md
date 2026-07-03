@@ -34,16 +34,16 @@ Both approaches let you query a large document collection. They differ fundament
 
 ## Comparison
 
-| Dimension | LLM Wiki | Semantic RAG |
-|-----------|----------|-------------|
-| **How knowledge is stored** | Pre-compiled markdown pages with cross-references already built | Raw chunks in a vector database |
-| **Finding answers** | Read index → follow links → synthesize | Embed query → similarity search → assemble |
-| **Query cost** | Low — synthesis already done | Higher — re-derives on every query |
-| **Infrastructure** | Just markdown files | Embedding model + vector DB + chunking pipeline |
-| **Maintenance** | Run a lint pass | Re-embed when content changes |
-| **Scale limit** | ~hundreds of pages (index file navigation) | Millions of documents |
-| **Setup time** | 5 minutes | Hours to days |
-| **Contradiction detection** | Built in — LLM flags on ingest | Manual |
+| Dimension                   | LLM Wiki                                                        | Semantic RAG                                    |
+| --------------------------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| **How knowledge is stored** | Pre-compiled markdown pages with cross-references already built | Raw chunks in a vector database                 |
+| **Finding answers**         | Read index → follow links → synthesize                          | Embed query → similarity search → assemble      |
+| **Query cost**              | Low — synthesis already done                                    | Higher — re-derives on every query              |
+| **Infrastructure**          | Just markdown files                                             | Embedding model + vector DB + chunking pipeline |
+| **Maintenance**             | Run a lint pass                                                 | Re-embed when content changes                   |
+| **Scale limit**             | ~hundreds of pages (index file navigation)                      | Millions of documents                           |
+| **Setup time**              | 5 minutes                                                       | Hours to days                                   |
+| **Contradiction detection** | Built in — LLM flags on ingest                                  | Manual                                          |
 
 ## Verdict
 

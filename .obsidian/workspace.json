@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/references/methodology-modes.md",
+                "file": "agents/wiki-lint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "methodology-modes"
+              "title": "wiki-lint"
             }
           }
         ]
@@ -191,26 +191,41 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a31de1b302cdc5cf",
+  "active": "5565f1231fe95c42",
   "lastOpenFiles": [
-    "wiki/references/transport-fallback.md",
-    "wiki/references/methodology-modes.md",
+    "agents/wiki-ingest.md",
+    "agents/verifier.md",
+    "wiki/Wiki Map.canvas",
+    "wiki/overview.md",
     "AGENTS.md",
     "ATTRIBUTION.md",
     "Các repo cần chú ý.md",
+    "Các repo cần chú ý - Phân loại.md",
+    "CHANGELOG.md",
     "CLAUDE.md",
-    "CODE_OF_CONDUCT.md",
-    "GEMINI.md",
     "CONTRIBUTING.md",
-    "PRIVACY.md",
-    "README.md",
-    "WIKI.md",
-    "Clippings/Where teams and agents work together.md",
+    "GEMINI.md",
+    "wiki/entities/affaan-ecc.md",
+    "wiki/concepts/Compounding Knowledge.md",
+    "wiki/concepts/cherry-picks.md",
+    "wiki/comparisons/claude-obsidian-ecosystem.md",
+    "wiki/comparisons/Wiki vs RAG.md",
+    "wiki/canvases/youtube-explainer.canvas",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/main.canvas",
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/entities/agency-agents.md",
+    "wiki/entities/_index.md",
+    "wiki/getting-started.md",
+    "wiki/hot.md",
+    "wiki/index.md",
+    "wiki/log.md",
+    "CODE_OF_CONDUCT.md",
+    "wiki/entities/addyosmani-agent-skills.md",
+    "wiki/entities/nvidia-skillspector.md",
+    "wiki/entities/last30days-skill.md",
     "Clippings",
     "Untitled 1.canvas",
-    "Test_Claude_MCP.md",
-    "Untitled.canvas",
-    "wiki/entities/Andrej Karpathy.md",
-    "wiki/questions/How does the LLM Wiki pattern work.md"
+    "Untitled.canvas"
   ]
 }
