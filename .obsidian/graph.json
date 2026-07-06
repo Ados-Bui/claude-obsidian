@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:wiki",
+  "search": "wiki/",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 120,
-  "scale": 0.5097322958945888,
-  "close": true
+  "scale": 0.5097322958945889,
+  "close": false
 }
